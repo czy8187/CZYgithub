@@ -26,6 +26,7 @@
     UMSocialData *mySocialData = [[UMSocialData alloc] initWithIdentifier:@"mySccialData" withTitle:@"mySocialData标题"];
     mySocialBar = [[UMSocialBar alloc] initWithUMSocialData:mySocialData withViewController:self];
     
+    
     [self.view addSubview:mySocialBar];
 }
 

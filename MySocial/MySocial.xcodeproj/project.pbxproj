@@ -33,58 +33,6 @@
 		905AE607168AF3C3003BA5DB /* UMSocial_Sdk_1.5.3.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 905AE589168AF3C3003BA5DB /* UMSocial_Sdk_1.5.3.a */; };
 		905AE608168AF3C4003BA5DB /* UMSocial_Sdk_Comment_1.5.3.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 905AE58A168AF3C3003BA5DB /* UMSocial_Sdk_Comment_1.5.3.a */; };
 		905AE609168AF3C4003BA5DB /* UMSocialSDKResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 905AE58B168AF3C3003BA5DB /* UMSocialSDKResources.bundle */; };
-		905AE60A168AF3C4003BA5DB /* UMSocialAccountEntity.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE58E168AF3C3003BA5DB /* UMSocialAccountEntity.html */; };
-		905AE60B168AF3C4003BA5DB /* UMSocialBar.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE58F168AF3C3003BA5DB /* UMSocialBar.html */; };
-		905AE60C168AF3C4003BA5DB /* UMSocialBarView.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE590168AF3C3003BA5DB /* UMSocialBarView.html */; };
-		905AE60D168AF3C4003BA5DB /* UMSocialControllerService.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE591168AF3C3003BA5DB /* UMSocialControllerService.html */; };
-		905AE60E168AF3C4003BA5DB /* UMSocialControllerServiceComment.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE592168AF3C3003BA5DB /* UMSocialControllerServiceComment.html */; };
-		905AE60F168AF3C4003BA5DB /* UMSocialData.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE593168AF3C3003BA5DB /* UMSocialData.html */; };
-		905AE610168AF3C4003BA5DB /* UMSocialDataService.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE594168AF3C3003BA5DB /* UMSocialDataService.html */; };
-		905AE611168AF3C4003BA5DB /* UMSocialEnum.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE595168AF3C3003BA5DB /* UMSocialEnum.html */; };
-		905AE612168AF3C4003BA5DB /* UMSocialResponseEntity.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE596168AF3C3003BA5DB /* UMSocialResponseEntity.html */; };
-		905AE613168AF3C4003BA5DB /* UMSocialUIHelper.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE597168AF3C3003BA5DB /* UMSocialUIHelper.html */; };
-		905AE614168AF3C4003BA5DB /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = 905AE599168AF3C3003BA5DB /* styles.css */; };
-		905AE615168AF3C4003BA5DB /* stylesPrint.css in Resources */ = {isa = PBXBuildFile; fileRef = 905AE59A168AF3C3003BA5DB /* stylesPrint.css */; };
-		905AE616168AF3C4003BA5DB /* hierarchy.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE59B168AF3C3003BA5DB /* hierarchy.html */; };
-		905AE617168AF3C4003BA5DB /* UMSocialAccountEntity.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE59E168AF3C3003BA5DB /* UMSocialAccountEntity.html */; };
-		905AE618168AF3C4003BA5DB /* UMSocialBar.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE59F168AF3C3003BA5DB /* UMSocialBar.html */; };
-		905AE619168AF3C4003BA5DB /* UMSocialBarView.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5A0168AF3C3003BA5DB /* UMSocialBarView.html */; };
-		905AE61A168AF3C4003BA5DB /* UMSocialControllerService.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5A1168AF3C3003BA5DB /* UMSocialControllerService.html */; };
-		905AE61B168AF3C4003BA5DB /* UMSocialControllerServiceComment.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5A2168AF3C3003BA5DB /* UMSocialControllerServiceComment.html */; };
-		905AE61C168AF3C4003BA5DB /* UMSocialData.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5A3168AF3C3003BA5DB /* UMSocialData.html */; };
-		905AE61D168AF3C4003BA5DB /* UMSocialDataService.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5A4168AF3C3003BA5DB /* UMSocialDataService.html */; };
-		905AE61E168AF3C4003BA5DB /* UMSocialEnum.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5A5168AF3C3003BA5DB /* UMSocialEnum.html */; };
-		905AE61F168AF3C4003BA5DB /* UMSocialResponseEntity.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5A6168AF3C3003BA5DB /* UMSocialResponseEntity.html */; };
-		905AE620168AF3C4003BA5DB /* UMSocialUIHelper.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5A7168AF3C3003BA5DB /* UMSocialUIHelper.html */; };
-		905AE621168AF3C4003BA5DB /* styles.css in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5A9168AF3C3003BA5DB /* styles.css */; };
-		905AE622168AF3C4003BA5DB /* stylesPrint.css in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5AA168AF3C3003BA5DB /* stylesPrint.css */; };
-		905AE623168AF3C4003BA5DB /* hierarchy.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5AB168AF3C3003BA5DB /* hierarchy.html */; };
-		905AE624168AF3C4003BA5DB /* button_bar_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5AD168AF3C3003BA5DB /* button_bar_background.png */; };
-		905AE625168AF3C4003BA5DB /* class_grath.png in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5AE168AF3C3003BA5DB /* class_grath.png */; };
-		905AE626168AF3C4003BA5DB /* disclosure.png in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5AF168AF3C3003BA5DB /* disclosure.png */; };
-		905AE627168AF3C4003BA5DB /* disclosure_open.png in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5B0168AF3C3003BA5DB /* disclosure_open.png */; };
-		905AE628168AF3C4003BA5DB /* library_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5B1168AF3C3003BA5DB /* library_background.png */; };
-		905AE629168AF3C4003BA5DB /* title_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5B2168AF3C3003BA5DB /* title_background.png */; };
-		905AE62A168AF3C4003BA5DB /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5B3168AF3C3003BA5DB /* index.html */; };
-		905AE62B168AF3C4003BA5DB /* UMSocialBarActionDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5B5168AF3C3003BA5DB /* UMSocialBarActionDelegate.html */; };
-		905AE62C168AF3C4003BA5DB /* UMSocialBarDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5B6168AF3C3003BA5DB /* UMSocialBarDelegate.html */; };
-		905AE62D168AF3C4003BA5DB /* UMSocialConfigDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5B7168AF3C3003BA5DB /* UMSocialConfigDelegate.html */; };
-		905AE62E168AF3C4003BA5DB /* UMSocialDataDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5B8168AF3C3003BA5DB /* UMSocialDataDelegate.html */; };
-		905AE62F168AF3C4003BA5DB /* UMSocialUIDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5B9168AF3C3003BA5DB /* UMSocialUIDelegate.html */; };
-		905AE630168AF3C4003BA5DB /* button_bar_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5BB168AF3C3003BA5DB /* button_bar_background.png */; };
-		905AE631168AF3C4003BA5DB /* class_grath.png in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5BC168AF3C3003BA5DB /* class_grath.png */; };
-		905AE632168AF3C4003BA5DB /* disclosure.png in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5BD168AF3C3003BA5DB /* disclosure.png */; };
-		905AE633168AF3C4003BA5DB /* disclosure_open.png in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5BE168AF3C3003BA5DB /* disclosure_open.png */; };
-		905AE634168AF3C4003BA5DB /* library_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5BF168AF3C3003BA5DB /* library_background.png */; };
-		905AE635168AF3C4003BA5DB /* title_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5C0168AF3C3003BA5DB /* title_background.png */; };
-		905AE636168AF3C4003BA5DB /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5C1168AF3C3003BA5DB /* index.html */; };
-		905AE637168AF3C4003BA5DB /* UMSocialBarActionDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5C3168AF3C3003BA5DB /* UMSocialBarActionDelegate.html */; };
-		905AE638168AF3C4003BA5DB /* UMSocialBarDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5C4168AF3C3003BA5DB /* UMSocialBarDelegate.html */; };
-		905AE639168AF3C4003BA5DB /* UMSocialConfigDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5C5168AF3C3003BA5DB /* UMSocialConfigDelegate.html */; };
-		905AE63A168AF3C4003BA5DB /* UMSocialDataDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5C6168AF3C3003BA5DB /* UMSocialDataDelegate.html */; };
-		905AE63B168AF3C4003BA5DB /* UMSocialUIDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5C7168AF3C3003BA5DB /* UMSocialUIDelegate.html */; };
-		905AE63C168AF3C4003BA5DB /* UMSocial_Sdk_Instructions.html in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5C8168AF3C3003BA5DB /* UMSocial_Sdk_Instructions.html */; };
-		905AE63D168AF3C4003BA5DB /* UMSocial_Sdk_ReleaseNotes.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 905AE5C9168AF3C3003BA5DB /* UMSocial_Sdk_ReleaseNotes.pdf */; };
 		905AE65C168AF3FA003BA5DB /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 905AE65B168AF3FA003BA5DB /* MessageUI.framework */; };
 		905AE65E168AF401003BA5DB /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 905AE65D168AF401003BA5DB /* QuartzCore.framework */; };
 		905AE660168AF422003BA5DB /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 905AE65F168AF422003BA5DB /* CoreLocation.framework */; };
@@ -141,58 +89,6 @@
 		905AE589168AF3C3003BA5DB /* UMSocial_Sdk_1.5.3.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = UMSocial_Sdk_1.5.3.a; sourceTree = "<group>"; };
 		905AE58A168AF3C3003BA5DB /* UMSocial_Sdk_Comment_1.5.3.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = UMSocial_Sdk_Comment_1.5.3.a; sourceTree = "<group>"; };
 		905AE58B168AF3C3003BA5DB /* UMSocialSDKResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = UMSocialSDKResources.bundle; sourceTree = "<group>"; };
-		905AE58E168AF3C3003BA5DB /* UMSocialAccountEntity.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialAccountEntity.html; sourceTree = "<group>"; };
-		905AE58F168AF3C3003BA5DB /* UMSocialBar.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialBar.html; sourceTree = "<group>"; };
-		905AE590168AF3C3003BA5DB /* UMSocialBarView.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialBarView.html; sourceTree = "<group>"; };
-		905AE591168AF3C3003BA5DB /* UMSocialControllerService.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialControllerService.html; sourceTree = "<group>"; };
-		905AE592168AF3C3003BA5DB /* UMSocialControllerServiceComment.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialControllerServiceComment.html; sourceTree = "<group>"; };
-		905AE593168AF3C3003BA5DB /* UMSocialData.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialData.html; sourceTree = "<group>"; };
-		905AE594168AF3C3003BA5DB /* UMSocialDataService.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialDataService.html; sourceTree = "<group>"; };
-		905AE595168AF3C3003BA5DB /* UMSocialEnum.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialEnum.html; sourceTree = "<group>"; };
-		905AE596168AF3C3003BA5DB /* UMSocialResponseEntity.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialResponseEntity.html; sourceTree = "<group>"; };
-		905AE597168AF3C3003BA5DB /* UMSocialUIHelper.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialUIHelper.html; sourceTree = "<group>"; };
-		905AE599168AF3C3003BA5DB /* styles.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
-		905AE59A168AF3C3003BA5DB /* stylesPrint.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = stylesPrint.css; sourceTree = "<group>"; };
-		905AE59B168AF3C3003BA5DB /* hierarchy.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = hierarchy.html; sourceTree = "<group>"; };
-		905AE59E168AF3C3003BA5DB /* UMSocialAccountEntity.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialAccountEntity.html; sourceTree = "<group>"; };
-		905AE59F168AF3C3003BA5DB /* UMSocialBar.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialBar.html; sourceTree = "<group>"; };
-		905AE5A0168AF3C3003BA5DB /* UMSocialBarView.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialBarView.html; sourceTree = "<group>"; };
-		905AE5A1168AF3C3003BA5DB /* UMSocialControllerService.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialControllerService.html; sourceTree = "<group>"; };
-		905AE5A2168AF3C3003BA5DB /* UMSocialControllerServiceComment.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialControllerServiceComment.html; sourceTree = "<group>"; };
-		905AE5A3168AF3C3003BA5DB /* UMSocialData.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialData.html; sourceTree = "<group>"; };
-		905AE5A4168AF3C3003BA5DB /* UMSocialDataService.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialDataService.html; sourceTree = "<group>"; };
-		905AE5A5168AF3C3003BA5DB /* UMSocialEnum.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialEnum.html; sourceTree = "<group>"; };
-		905AE5A6168AF3C3003BA5DB /* UMSocialResponseEntity.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialResponseEntity.html; sourceTree = "<group>"; };
-		905AE5A7168AF3C3003BA5DB /* UMSocialUIHelper.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialUIHelper.html; sourceTree = "<group>"; };
-		905AE5A9168AF3C3003BA5DB /* styles.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
-		905AE5AA168AF3C3003BA5DB /* stylesPrint.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = stylesPrint.css; sourceTree = "<group>"; };
-		905AE5AB168AF3C3003BA5DB /* hierarchy.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = hierarchy.html; sourceTree = "<group>"; };
-		905AE5AD168AF3C3003BA5DB /* button_bar_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_bar_background.png; sourceTree = "<group>"; };
-		905AE5AE168AF3C3003BA5DB /* class_grath.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = class_grath.png; sourceTree = "<group>"; };
-		905AE5AF168AF3C3003BA5DB /* disclosure.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosure.png; sourceTree = "<group>"; };
-		905AE5B0168AF3C3003BA5DB /* disclosure_open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosure_open.png; sourceTree = "<group>"; };
-		905AE5B1168AF3C3003BA5DB /* library_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = library_background.png; sourceTree = "<group>"; };
-		905AE5B2168AF3C3003BA5DB /* title_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title_background.png; sourceTree = "<group>"; };
-		905AE5B3168AF3C3003BA5DB /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
-		905AE5B5168AF3C3003BA5DB /* UMSocialBarActionDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialBarActionDelegate.html; sourceTree = "<group>"; };
-		905AE5B6168AF3C3003BA5DB /* UMSocialBarDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialBarDelegate.html; sourceTree = "<group>"; };
-		905AE5B7168AF3C3003BA5DB /* UMSocialConfigDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialConfigDelegate.html; sourceTree = "<group>"; };
-		905AE5B8168AF3C3003BA5DB /* UMSocialDataDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialDataDelegate.html; sourceTree = "<group>"; };
-		905AE5B9168AF3C3003BA5DB /* UMSocialUIDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialUIDelegate.html; sourceTree = "<group>"; };
-		905AE5BB168AF3C3003BA5DB /* button_bar_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_bar_background.png; sourceTree = "<group>"; };
-		905AE5BC168AF3C3003BA5DB /* class_grath.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = class_grath.png; sourceTree = "<group>"; };
-		905AE5BD168AF3C3003BA5DB /* disclosure.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosure.png; sourceTree = "<group>"; };
-		905AE5BE168AF3C3003BA5DB /* disclosure_open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosure_open.png; sourceTree = "<group>"; };
-		905AE5BF168AF3C3003BA5DB /* library_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = library_background.png; sourceTree = "<group>"; };
-		905AE5C0168AF3C3003BA5DB /* title_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title_background.png; sourceTree = "<group>"; };
-		905AE5C1168AF3C3003BA5DB /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
-		905AE5C3168AF3C3003BA5DB /* UMSocialBarActionDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialBarActionDelegate.html; sourceTree = "<group>"; };
-		905AE5C4168AF3C3003BA5DB /* UMSocialBarDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialBarDelegate.html; sourceTree = "<group>"; };
-		905AE5C5168AF3C3003BA5DB /* UMSocialConfigDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialConfigDelegate.html; sourceTree = "<group>"; };
-		905AE5C6168AF3C3003BA5DB /* UMSocialDataDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialDataDelegate.html; sourceTree = "<group>"; };
-		905AE5C7168AF3C3003BA5DB /* UMSocialUIDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocialUIDelegate.html; sourceTree = "<group>"; };
-		905AE5C8168AF3C3003BA5DB /* UMSocial_Sdk_Instructions.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = UMSocial_Sdk_Instructions.html; sourceTree = "<group>"; };
-		905AE5C9168AF3C3003BA5DB /* UMSocial_Sdk_ReleaseNotes.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = UMSocial_Sdk_ReleaseNotes.pdf; sourceTree = "<group>"; };
 		905AE65B168AF3FA003BA5DB /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 		905AE65D168AF401003BA5DB /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		905AE65F168AF422003BA5DB /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
@@ -223,10 +119,6 @@
 		905AE530168AF2E7003BA5DB = {
 			isa = PBXGroup;
 			children = (
-				905AE661168AF45E003BA5DB /* MapKit.framework */,
-				905AE65F168AF422003BA5DB /* CoreLocation.framework */,
-				905AE65D168AF401003BA5DB /* QuartzCore.framework */,
-				905AE65B168AF3FA003BA5DB /* MessageUI.framework */,
 				905AE545168AF2E8003BA5DB /* MySocial */,
 				905AE53E168AF2E8003BA5DB /* Frameworks */,
 				905AE53C168AF2E8003BA5DB /* Products */,
@@ -244,6 +136,10 @@
 		905AE53E168AF2E8003BA5DB /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				905AE661168AF45E003BA5DB /* MapKit.framework */,
+				905AE65F168AF422003BA5DB /* CoreLocation.framework */,
+				905AE65D168AF401003BA5DB /* QuartzCore.framework */,
+				905AE65B168AF3FA003BA5DB /* MessageUI.framework */,
 				905AE53F168AF2E8003BA5DB /* UIKit.framework */,
 				905AE541168AF2E8003BA5DB /* Foundation.framework */,
 				905AE543168AF2E8003BA5DB /* CoreGraphics.framework */,
@@ -283,9 +179,6 @@
 			isa = PBXGroup;
 			children = (
 				905AE563168AF3C3003BA5DB /* UMSocial_Sdk_1.5.3 */,
-				905AE58C168AF3C3003BA5DB /* UMSocial_Sdk_Api_Reference */,
-				905AE5C8168AF3C3003BA5DB /* UMSocial_Sdk_Instructions.html */,
-				905AE5C9168AF3C3003BA5DB /* UMSocial_Sdk_ReleaseNotes.pdf */,
 			);
 			path = UMSocial_Sdk_All_1.5.3;
 			sourceTree = "<group>";
@@ -386,135 +279,6 @@
 			path = SocialSDKXib;
 			sourceTree = "<group>";
 		};
-		905AE58C168AF3C3003BA5DB /* UMSocial_Sdk_Api_Reference */ = {
-			isa = PBXGroup;
-			children = (
-				905AE58D168AF3C3003BA5DB /* Classes */,
-				905AE598168AF3C3003BA5DB /* css */,
-				905AE59B168AF3C3003BA5DB /* hierarchy.html */,
-				905AE59C168AF3C3003BA5DB /* html */,
-				905AE5BA168AF3C3003BA5DB /* img */,
-				905AE5C1168AF3C3003BA5DB /* index.html */,
-				905AE5C2168AF3C3003BA5DB /* Protocols */,
-			);
-			path = UMSocial_Sdk_Api_Reference;
-			sourceTree = "<group>";
-		};
-		905AE58D168AF3C3003BA5DB /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				905AE58E168AF3C3003BA5DB /* UMSocialAccountEntity.html */,
-				905AE58F168AF3C3003BA5DB /* UMSocialBar.html */,
-				905AE590168AF3C3003BA5DB /* UMSocialBarView.html */,
-				905AE591168AF3C3003BA5DB /* UMSocialControllerService.html */,
-				905AE592168AF3C3003BA5DB /* UMSocialControllerServiceComment.html */,
-				905AE593168AF3C3003BA5DB /* UMSocialData.html */,
-				905AE594168AF3C3003BA5DB /* UMSocialDataService.html */,
-				905AE595168AF3C3003BA5DB /* UMSocialEnum.html */,
-				905AE596168AF3C3003BA5DB /* UMSocialResponseEntity.html */,
-				905AE597168AF3C3003BA5DB /* UMSocialUIHelper.html */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		905AE598168AF3C3003BA5DB /* css */ = {
-			isa = PBXGroup;
-			children = (
-				905AE599168AF3C3003BA5DB /* styles.css */,
-				905AE59A168AF3C3003BA5DB /* stylesPrint.css */,
-			);
-			path = css;
-			sourceTree = "<group>";
-		};
-		905AE59C168AF3C3003BA5DB /* html */ = {
-			isa = PBXGroup;
-			children = (
-				905AE59D168AF3C3003BA5DB /* Classes */,
-				905AE5A8168AF3C3003BA5DB /* css */,
-				905AE5AB168AF3C3003BA5DB /* hierarchy.html */,
-				905AE5AC168AF3C3003BA5DB /* img */,
-				905AE5B3168AF3C3003BA5DB /* index.html */,
-				905AE5B4168AF3C3003BA5DB /* Protocols */,
-			);
-			path = html;
-			sourceTree = "<group>";
-		};
-		905AE59D168AF3C3003BA5DB /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				905AE59E168AF3C3003BA5DB /* UMSocialAccountEntity.html */,
-				905AE59F168AF3C3003BA5DB /* UMSocialBar.html */,
-				905AE5A0168AF3C3003BA5DB /* UMSocialBarView.html */,
-				905AE5A1168AF3C3003BA5DB /* UMSocialControllerService.html */,
-				905AE5A2168AF3C3003BA5DB /* UMSocialControllerServiceComment.html */,
-				905AE5A3168AF3C3003BA5DB /* UMSocialData.html */,
-				905AE5A4168AF3C3003BA5DB /* UMSocialDataService.html */,
-				905AE5A5168AF3C3003BA5DB /* UMSocialEnum.html */,
-				905AE5A6168AF3C3003BA5DB /* UMSocialResponseEntity.html */,
-				905AE5A7168AF3C3003BA5DB /* UMSocialUIHelper.html */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		905AE5A8168AF3C3003BA5DB /* css */ = {
-			isa = PBXGroup;
-			children = (
-				905AE5A9168AF3C3003BA5DB /* styles.css */,
-				905AE5AA168AF3C3003BA5DB /* stylesPrint.css */,
-			);
-			path = css;
-			sourceTree = "<group>";
-		};
-		905AE5AC168AF3C3003BA5DB /* img */ = {
-			isa = PBXGroup;
-			children = (
-				905AE5AD168AF3C3003BA5DB /* button_bar_background.png */,
-				905AE5AE168AF3C3003BA5DB /* class_grath.png */,
-				905AE5AF168AF3C3003BA5DB /* disclosure.png */,
-				905AE5B0168AF3C3003BA5DB /* disclosure_open.png */,
-				905AE5B1168AF3C3003BA5DB /* library_background.png */,
-				905AE5B2168AF3C3003BA5DB /* title_background.png */,
-			);
-			path = img;
-			sourceTree = "<group>";
-		};
-		905AE5B4168AF3C3003BA5DB /* Protocols */ = {
-			isa = PBXGroup;
-			children = (
-				905AE5B5168AF3C3003BA5DB /* UMSocialBarActionDelegate.html */,
-				905AE5B6168AF3C3003BA5DB /* UMSocialBarDelegate.html */,
-				905AE5B7168AF3C3003BA5DB /* UMSocialConfigDelegate.html */,
-				905AE5B8168AF3C3003BA5DB /* UMSocialDataDelegate.html */,
-				905AE5B9168AF3C3003BA5DB /* UMSocialUIDelegate.html */,
-			);
-			path = Protocols;
-			sourceTree = "<group>";
-		};
-		905AE5BA168AF3C3003BA5DB /* img */ = {
-			isa = PBXGroup;
-			children = (
-				905AE5BB168AF3C3003BA5DB /* button_bar_background.png */,
-				905AE5BC168AF3C3003BA5DB /* class_grath.png */,
-				905AE5BD168AF3C3003BA5DB /* disclosure.png */,
-				905AE5BE168AF3C3003BA5DB /* disclosure_open.png */,
-				905AE5BF168AF3C3003BA5DB /* library_background.png */,
-				905AE5C0168AF3C3003BA5DB /* title_background.png */,
-			);
-			path = img;
-			sourceTree = "<group>";
-		};
-		905AE5C2168AF3C3003BA5DB /* Protocols */ = {
-			isa = PBXGroup;
-			children = (
-				905AE5C3168AF3C3003BA5DB /* UMSocialBarActionDelegate.html */,
-				905AE5C4168AF3C3003BA5DB /* UMSocialBarDelegate.html */,
-				905AE5C5168AF3C3003BA5DB /* UMSocialConfigDelegate.html */,
-				905AE5C6168AF3C3003BA5DB /* UMSocialDataDelegate.html */,
-				905AE5C7168AF3C3003BA5DB /* UMSocialUIDelegate.html */,
-			);
-			path = Protocols;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -579,58 +343,6 @@
 				905AE605168AF3C3003BA5DB /* UMSnsAccountViewController.xib in Resources */,
 				905AE606168AF3C3003BA5DB /* UMSShareListController.xib in Resources */,
 				905AE609168AF3C4003BA5DB /* UMSocialSDKResources.bundle in Resources */,
-				905AE60A168AF3C4003BA5DB /* UMSocialAccountEntity.html in Resources */,
-				905AE60B168AF3C4003BA5DB /* UMSocialBar.html in Resources */,
-				905AE60C168AF3C4003BA5DB /* UMSocialBarView.html in Resources */,
-				905AE60D168AF3C4003BA5DB /* UMSocialControllerService.html in Resources */,
-				905AE60E168AF3C4003BA5DB /* UMSocialControllerServiceComment.html in Resources */,
-				905AE60F168AF3C4003BA5DB /* UMSocialData.html in Resources */,
-				905AE610168AF3C4003BA5DB /* UMSocialDataService.html in Resources */,
-				905AE611168AF3C4003BA5DB /* UMSocialEnum.html in Resources */,
-				905AE612168AF3C4003BA5DB /* UMSocialResponseEntity.html in Resources */,
-				905AE613168AF3C4003BA5DB /* UMSocialUIHelper.html in Resources */,
-				905AE614168AF3C4003BA5DB /* styles.css in Resources */,
-				905AE615168AF3C4003BA5DB /* stylesPrint.css in Resources */,
-				905AE616168AF3C4003BA5DB /* hierarchy.html in Resources */,
-				905AE617168AF3C4003BA5DB /* UMSocialAccountEntity.html in Resources */,
-				905AE618168AF3C4003BA5DB /* UMSocialBar.html in Resources */,
-				905AE619168AF3C4003BA5DB /* UMSocialBarView.html in Resources */,
-				905AE61A168AF3C4003BA5DB /* UMSocialControllerService.html in Resources */,
-				905AE61B168AF3C4003BA5DB /* UMSocialControllerServiceComment.html in Resources */,
-				905AE61C168AF3C4003BA5DB /* UMSocialData.html in Resources */,
-				905AE61D168AF3C4003BA5DB /* UMSocialDataService.html in Resources */,
-				905AE61E168AF3C4003BA5DB /* UMSocialEnum.html in Resources */,
-				905AE61F168AF3C4003BA5DB /* UMSocialResponseEntity.html in Resources */,
-				905AE620168AF3C4003BA5DB /* UMSocialUIHelper.html in Resources */,
-				905AE621168AF3C4003BA5DB /* styles.css in Resources */,
-				905AE622168AF3C4003BA5DB /* stylesPrint.css in Resources */,
-				905AE623168AF3C4003BA5DB /* hierarchy.html in Resources */,
-				905AE624168AF3C4003BA5DB /* button_bar_background.png in Resources */,
-				905AE625168AF3C4003BA5DB /* class_grath.png in Resources */,
-				905AE626168AF3C4003BA5DB /* disclosure.png in Resources */,
-				905AE627168AF3C4003BA5DB /* disclosure_open.png in Resources */,
-				905AE628168AF3C4003BA5DB /* library_background.png in Resources */,
-				905AE629168AF3C4003BA5DB /* title_background.png in Resources */,
-				905AE62A168AF3C4003BA5DB /* index.html in Resources */,
-				905AE62B168AF3C4003BA5DB /* UMSocialBarActionDelegate.html in Resources */,
-				905AE62C168AF3C4003BA5DB /* UMSocialBarDelegate.html in Resources */,
-				905AE62D168AF3C4003BA5DB /* UMSocialConfigDelegate.html in Resources */,
-				905AE62E168AF3C4003BA5DB /* UMSocialDataDelegate.html in Resources */,
-				905AE62F168AF3C4003BA5DB /* UMSocialUIDelegate.html in Resources */,
-				905AE630168AF3C4003BA5DB /* button_bar_background.png in Resources */,
-				905AE631168AF3C4003BA5DB /* class_grath.png in Resources */,
-				905AE632168AF3C4003BA5DB /* disclosure.png in Resources */,
-				905AE633168AF3C4003BA5DB /* disclosure_open.png in Resources */,
-				905AE634168AF3C4003BA5DB /* library_background.png in Resources */,
-				905AE635168AF3C4003BA5DB /* title_background.png in Resources */,
-				905AE636168AF3C4003BA5DB /* index.html in Resources */,
-				905AE637168AF3C4003BA5DB /* UMSocialBarActionDelegate.html in Resources */,
-				905AE638168AF3C4003BA5DB /* UMSocialBarDelegate.html in Resources */,
-				905AE639168AF3C4003BA5DB /* UMSocialConfigDelegate.html in Resources */,
-				905AE63A168AF3C4003BA5DB /* UMSocialDataDelegate.html in Resources */,
-				905AE63B168AF3C4003BA5DB /* UMSocialUIDelegate.html in Resources */,
-				905AE63C168AF3C4003BA5DB /* UMSocial_Sdk_Instructions.html in Resources */,
-				905AE63D168AF3C4003BA5DB /* UMSocial_Sdk_ReleaseNotes.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -774,6 +486,7 @@
 				905AE561168AF2E8003BA5DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
