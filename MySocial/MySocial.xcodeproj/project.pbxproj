@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		90472DFB168B4B6D007224FA /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 90472DFA168B4B6D007224FA /* MobileCoreServices.framework */; };
 		905AE540168AF2E8003BA5DB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 905AE53F168AF2E8003BA5DB /* UIKit.framework */; };
 		905AE542168AF2E8003BA5DB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 905AE541168AF2E8003BA5DB /* Foundation.framework */; };
 		905AE544168AF2E8003BA5DB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 905AE543168AF2E8003BA5DB /* CoreGraphics.framework */; };
@@ -40,6 +41,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		90472DFA168B4B6D007224FA /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
 		905AE53B168AF2E8003BA5DB /* MySocial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MySocial.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		905AE53F168AF2E8003BA5DB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		905AE541168AF2E8003BA5DB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -100,6 +102,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90472DFB168B4B6D007224FA /* MobileCoreServices.framework in Frameworks */,
 				905AE662168AF45E003BA5DB /* MapKit.framework in Frameworks */,
 				905AE660168AF422003BA5DB /* CoreLocation.framework in Frameworks */,
 				905AE65E168AF401003BA5DB /* QuartzCore.framework in Frameworks */,
@@ -119,6 +122,7 @@
 		905AE530168AF2E7003BA5DB = {
 			isa = PBXGroup;
 			children = (
+				90472DFA168B4B6D007224FA /* MobileCoreServices.framework */,
 				905AE545168AF2E8003BA5DB /* MySocial */,
 				905AE53E168AF2E8003BA5DB /* Frameworks */,
 				905AE53C168AF2E8003BA5DB /* Products */,
@@ -163,7 +167,7 @@
 		905AE546168AF2E8003BA5DB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				905AE562168AF3C3003BA5DB /* UMSocial_Sdk_All_1.5.3 */,
+				905AE563168AF3C3003BA5DB /* UMSocial_Sdk_1.5.3 */,
 				905AE547168AF2E8003BA5DB /* MySocial-Info.plist */,
 				905AE548168AF2E8003BA5DB /* InfoPlist.strings */,
 				905AE54B168AF2E8003BA5DB /* main.m */,
@@ -173,14 +177,6 @@
 				905AE555168AF2E8003BA5DB /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		905AE562168AF3C3003BA5DB /* UMSocial_Sdk_All_1.5.3 */ = {
-			isa = PBXGroup;
-			children = (
-				905AE563168AF3C3003BA5DB /* UMSocial_Sdk_1.5.3 */,
-			);
-			path = UMSocial_Sdk_All_1.5.3;
 			sourceTree = "<group>";
 		};
 		905AE563168AF3C3003BA5DB /* UMSocial_Sdk_1.5.3 */ = {
@@ -193,7 +189,8 @@
 				905AE58A168AF3C3003BA5DB /* UMSocial_Sdk_Comment_1.5.3.a */,
 				905AE58B168AF3C3003BA5DB /* UMSocialSDKResources.bundle */,
 			);
-			path = UMSocial_Sdk_1.5.3;
+			name = UMSocial_Sdk_1.5.3;
+			path = UMSocial_Sdk_All_1.5.3/UMSocial_Sdk_1.5.3;
 			sourceTree = "<group>";
 		};
 		905AE564168AF3C3003BA5DB /* frameworks */ = {

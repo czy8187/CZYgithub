@@ -25,9 +25,11 @@
     
     UMSocialData *mySocialData = [[UMSocialData alloc] initWithIdentifier:@"mySccialData" withTitle:@"mySocialData标题"];
     mySocialBar = [[UMSocialBar alloc] initWithUMSocialData:mySocialData withViewController:self];
-    
+    mySocialBar.center = CGPointMake(160, 440);
     
     [self.view addSubview:mySocialBar];
+    
+    //网络请求
 }
 
 - (void)didReceiveMemoryWarning
