@@ -22,6 +22,8 @@
 		90A4A0991692B05E00E31E93 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 90A4A0981692B05E00E31E93 /* Default-568h@2x.png */; };
 		90A4A09C1692B05E00E31E93 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 90A4A09B1692B05E00E31E93 /* ViewController.m */; };
 		90A4A09F1692B05E00E31E93 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 90A4A09D1692B05E00E31E93 /* ViewController.xib */; };
+		90F036D516A93DAD00E9F9AF /* RTWSYueGoTrial-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 90F036D316A93DAD00E9F9AF /* RTWSYueGoTrial-Light.otf */; };
+		90F036D616A93DAD00E9F9AF /* RTWSYueGoTrial-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 90F036D416A93DAD00E9F9AF /* RTWSYueGoTrial-Regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,6 +49,8 @@
 		90A4A09A1692B05E00E31E93 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		90A4A09B1692B05E00E31E93 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		90A4A09E1692B05E00E31E93 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		90F036D316A93DAD00E9F9AF /* RTWSYueGoTrial-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RTWSYueGoTrial-Light.otf"; sourceTree = "<group>"; };
+		90F036D416A93DAD00E9F9AF /* RTWSYueGoTrial-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RTWSYueGoTrial-Regular.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +116,7 @@
 		90A4A0891692B05E00E31E93 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				90F036D216A93DAD00E9F9AF /* customFont */,
 				90A4A08A1692B05E00E31E93 /* cell-Info.plist */,
 				90A4A08B1692B05E00E31E93 /* InfoPlist.strings */,
 				90A4A08E1692B05E00E31E93 /* main.m */,
@@ -121,6 +126,15 @@
 				90A4A0981692B05E00E31E93 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		90F036D216A93DAD00E9F9AF /* customFont */ = {
+			isa = PBXGroup;
+			children = (
+				90F036D316A93DAD00E9F9AF /* RTWSYueGoTrial-Light.otf */,
+				90F036D416A93DAD00E9F9AF /* RTWSYueGoTrial-Regular.otf */,
+			);
+			path = customFont;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -181,6 +195,8 @@
 				90A4A09F1692B05E00E31E93 /* ViewController.xib in Resources */,
 				905522BE1692E999003F0232 /* InfoCell.xib in Resources */,
 				9083E0C41694396E0029171D /* InfoView.xib in Resources */,
+				90F036D516A93DAD00E9F9AF /* RTWSYueGoTrial-Light.otf in Resources */,
+				90F036D616A93DAD00E9F9AF /* RTWSYueGoTrial-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
